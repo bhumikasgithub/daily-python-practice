@@ -11,4 +11,4 @@ logic building, and problem-solving skills.
 - Lists, strings, dictionaries
 - Simple logic & interview-style problems
 
-📅 I commit code daily to maintain consistency and track my learning progress.
+I commit code daily to maintain consistency and track my learning progress.
