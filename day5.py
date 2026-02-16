@@ -1,4 +1,3 @@
-
 # calculating the area of the circle
 
 R=float(input("Enter the radius of the circle: "))
@@ -12,5 +11,5 @@ for i in range(1, 101):
             if(i % n) == 0:
                 break
         else:
-             print(i,end=" "):
+             print(i,end=" ")
 
