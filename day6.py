@@ -1,4 +1,4 @@
-'''# calculate the number of digits in an integer
+# calculate the number of digits in an integer
 num=int(input("Enter a number:"))
 str_num=str(num)
 print("The number of digits in the number is:",len(str_num))
@@ -15,7 +15,7 @@ def count_digits(num):
 num=int(input("Enter a number:"))
 print(count_digits(num))
 
-'''
+
 #using formula
 import math
 num=int(input("Enter a number:"))
