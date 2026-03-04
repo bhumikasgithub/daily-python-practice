@@ -11,4 +11,4 @@ if __name__ == "__main__":
 aray = [1, 2, 3, 4, 5]
 sorted_array = sorted(aray)
 minimum = min(sorted_array)
-print("The smallest element is", minimum)
+print("The smallest element is", minimum) 
