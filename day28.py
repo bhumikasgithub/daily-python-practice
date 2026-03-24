@@ -1,4 +1,5 @@
 #python program to find the smallest element from the array
+
 #1
 a=[10, 89, 9, 56, 4, 80, 8]
 print(min(a))
