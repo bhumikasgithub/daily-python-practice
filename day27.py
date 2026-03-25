@@ -1,5 +1,5 @@
 #print largest element in the array array from user input
-'''
+
 1
 array = [int(x) for x in input("Enter the array elements separated by space: ").split()]
 print(max(array))
@@ -29,3 +29,5 @@ for i in range(len(a)):
      max_element = a[i]
 
 print (max_element)
+
+
