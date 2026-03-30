@@ -16,3 +16,6 @@ array = [10, 89, 9, 56, 80, 8]
 array.sort()
 print("minelement",array[0], "maxelement", array[-1], sep="\n")
 
+
+
+

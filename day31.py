@@ -1,5 +1,5 @@
 #find the sum of the elements in the array
-'''
+
 array = [10, 89, 9, 56, 80, 8]
 sum = 0 
 for i in range(0 , len(array)):
@@ -10,7 +10,7 @@ print(sum)
 
 array = [10, 89, 9, 56, 80, 8]
 print(sum(array))
-'''
+
 
 def sum_array(array, n):
     if n==0:

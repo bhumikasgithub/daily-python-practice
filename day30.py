@@ -4,6 +4,8 @@ array = [10, 89, 9, 56, 80, 8]
 array.sort()
 print(array[1])
 '''
+
+
 import math
 array = [10, 89, 9, 56, 80, 8]
 first = math.inf
