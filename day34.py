@@ -1,5 +1,5 @@
 # sort the aarray without using sort function
-'''
+
 aray = [5, 4, 6, 2, 1, 3, 8, -1]
 n=len(aray)
 for i in range(0,n):
@@ -9,7 +9,7 @@ for i in range(0,n):
             aray[i]=aray[j]
             aray[j]=temp
 print(aray) 
-'''      
+      
 
 array = [5, 4, 6, 2, 1, 3, 8, -1]
 array.sort(reverse=True)
