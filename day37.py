@@ -11,7 +11,6 @@ def isPalindrome(n):
   
       if (leading != trailing):
         return False
-
       n = int((n % divisor) / 10)
 
       divisor = int(divisor / 100)
