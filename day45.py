@@ -1,12 +1,12 @@
 # python program to find the odd and even number in the array
-'''arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 n=len(arr)
 for i in range(n):
     if arr[i]%2==0:
        print(arr[i],"even")
     else :
        print(arr[i],"odd")
-'''
+
 arr= [1, 2, 3, 4, 5, 6, 7, 8, 9]
 n=len(arr)
 countodd = 0
