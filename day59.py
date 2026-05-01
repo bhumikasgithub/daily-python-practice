@@ -1,6 +1,6 @@
 # pyhton program tpo see the parantehese are same or not 
 
-'''
+
 def issame(s):
     c=0
     ans=False
@@ -13,7 +13,7 @@ def issame(s):
         ans=True
     return ans
 s="(((()))"
-print(issame(s))'''
+print(issame(s))
 
 #2 Second method
 
