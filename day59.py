@@ -15,16 +15,14 @@ def issame(s):
 s="(((()))"
 print(issame(s))
 
-#2 Second method
-
 def isbalanced(s):
     while True:
-        old_s = s   # store previous string
-        
+        old_s = s
         s = s.replace('()', '')
         s = s.replace('[]', '')
         s = s.replace('{}', '')
         
+
         # if no changes happen, stop loop
         if s == old_s:
             break
@@ -36,6 +34,5 @@ def isbalanced(s):
         return False
 
 
-# main program
-s = input("Enter a string of brackets: ")
+s = "{}[]]]())))"
 print("Given string is balanced:", isbalanced(s))
