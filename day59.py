@@ -21,9 +21,7 @@ def isbalanced(s):
         s = s.replace('()', '')
         s = s.replace('[]', '')
         s = s.replace('{}', '')
-        
-
-        # if no changes happen, stop loop
+                # if no changes happen, stop loop
         if s == old_s:
             break
     
